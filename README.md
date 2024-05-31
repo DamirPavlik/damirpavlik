@@ -13,4 +13,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damirpavlik&" alt="damirpavlik" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damirpavlik&show_icons=true&locale=en" alt="damirpavlik" /></p>
+
