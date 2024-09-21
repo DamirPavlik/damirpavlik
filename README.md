@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Damir</h1>
-<p align="left">My name is Damir Pavlik and I'm a web developer from Serbia</p>
+<p align="left">A code poet in a world of syntax errors</p>
 
 
 <h3 align="left">I play with</h3>
